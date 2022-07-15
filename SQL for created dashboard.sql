@@ -24,3 +24,4 @@ from PortofolioProject..CovidDeaths
 where continent is not null
 group by location, population, date
 order by PercentPopulationInfected desc
+
